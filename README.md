@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xEv3n
-- 👀 I’m interested in web
-- 🌱 I’m currently learning web
-- 💞️ I’m looking to collaborate on nothing
+- 👀 I’m interested in programmming
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate.let me learn first
 - 📫 How to reach me @10_ev3n_7 insta
 - 
 
